@@ -1,0 +1,15 @@
+1.List all product names with their brand and category
+2.Which products are out of stock?
+3.Top 5 most ordered products
+4.List customers who placed more than 5 orders
+5.Total number of products in each store
+6.Orders placed in the last 30 days
+7.Total revenue generated per store
+8. Staff members working in each store
+9. Average price of products per category
+10. Customer who spent the most money
+11. Find duplicate product names
+12. Orders with more than 3 items
+13. Monthly revenue report
+14. List products with price above average
+15. Orders handled by each staff
