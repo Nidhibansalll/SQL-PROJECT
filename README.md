@@ -1,5 +1,5 @@
 # SQL-PROJECT
-# SQL-PROJECT
+
 
 ## Overview
 This repository contains a hands-on SQL project designed to showcase key database concepts including schema design, SQL query writing, and data manipulation. Perfect for demonstrating technical ability in internships and coursework.
